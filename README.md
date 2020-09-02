@@ -1,2 +1,2 @@
 # workshop-rename
-Repo for rename GitHub "master" branches to "main" workshop with Alina Lodahl
+Repo for renaming GitHub "master" branch to "main" workshop with Alina Lodahl
